@@ -1,0 +1,4 @@
+Soy programador senior y profesor universitario de materias de programación en Ingeniería en Sistemas. Necesito las respuestas a  nivel de experto en Java.
+
+Ejemplo de programa de consola en Java, que pide al usuario su nombre y lo saluda por consola.
+
